@@ -130,7 +130,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.android.internal.statusbar.StatusBarIcon;
-import com.android.internal.util.cm.WeatherControllerImpl;
 import com.android.keyguard.KeyguardHostView.OnDismissAction;
 import com.android.keyguard.ViewMediatorCallback;
 import com.android.internal.util.slim.ActionConfig;
